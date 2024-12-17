@@ -1,0 +1,116 @@
+[
+  {
+    "bridgeName": "NuDex",
+    "logo": "/third_party_bridge/icon/nudex.png",
+    "card": "https://google.com",
+    "supportedTokens": [
+      {
+        "icon": "/third_party_bridge/icon/btc.png",
+        "name": "BTC"
+      },
+      {
+        "icon": "/third_party_bridge/icon/btcb.png",
+        "name": "BTCB"
+      },
+      {
+        "icon": "/third_party_bridge/icon/wbtc.png",
+        "name": "wBTC"
+      },
+      {
+        "icon": "/third_party_bridge/icon/eth.png",
+        "name": "ETH"
+      },
+      {
+        "icon": "/third_party_bridge/icon/usdt.png",
+        "name": "USDT"
+      },
+      {
+        "icon": "/third_party_bridge/icon/usdc.png",
+        "name": "USDC"
+      }
+    ],
+    "supportedNetwork": [
+      {
+        "icon": "/third_party_bridge/icon/btc.png",
+        "name": "BTC"
+      }
+    ],
+    "bridgeURL": "https://google.com"
+  },
+  {
+    "bridgeName": "LayerZero",
+    "logo": "/third_party_bridge/icon/nudex.png",
+    "card": "https://google.com",
+    "supportedTokens": [
+      {
+        "icon": "/third_party_bridge/icon/btc.png",
+        "name": "BTC"
+      },
+      {
+        "icon": "/third_party_bridge/icon/btcb.png",
+        "name": "BTCB"
+      },
+      {
+        "icon": "/third_party_bridge/icon/wbtc.png",
+        "name": "wBTC"
+      },
+      {
+        "icon": "/third_party_bridge/icon/eth.png",
+        "name": "ETH"
+      },
+      {
+        "icon": "/third_party_bridge/icon/usdt.png",
+        "name": "USDT"
+      },
+      {
+        "icon": "/third_party_bridge/icon/usdc.png",
+        "name": "USDC"
+      }
+    ],
+    "supportedNetwork": [
+      {
+        "icon": "/third_party_bridge/icon/btc.png",
+        "name": "BTC"
+      }
+    ],
+    "bridgeURL": "https://google.com"
+  },
+  {
+    "bridgeName": "LayerZero",
+    "logo": "/third_party_bridge/icon/nudex.png",
+    "card": "https://google.com",
+    "supportedTokens": [
+      {
+        "icon": "/third_party_bridge/icon/btc.png",
+        "name": "BTC"
+      },
+      {
+        "icon": "/third_party_bridge/icon/btcb.png",
+        "name": "BTCB"
+      },
+      {
+        "icon": "/third_party_bridge/icon/wbtc.png",
+        "name": "wBTC"
+      },
+      {
+        "icon": "/third_party_bridge/icon/eth.png",
+        "name": "ETH"
+      },
+      {
+        "icon": "/third_party_bridge/icon/usdt.png",
+        "name": "USDT"
+      },
+      {
+        "icon": "/third_party_bridge/icon/usdc.png",
+        "name": "USDC"
+      }
+    ],
+    "supportedNetwork": [
+      {
+        "icon": "/third_party_bridge/icon/btc.png",
+        "name": "BTC"
+      }
+    ],
+    "bridgeURL": "https://google.com"
+  }
+]
