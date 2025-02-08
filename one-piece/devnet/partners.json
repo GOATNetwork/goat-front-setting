@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Nudex",
+    "logo": "/partners/nudex1.svg",
+    "link": "https://nudex.vercel.app/",
+    "subTitle": "Unleash your trading potential.",
+    "description": "Start trading BTC, ETH, DOGE on Nudex.",
+    "buttonText": "Trade Now"
+  },
+  { "name": "Stablejack",
+    "logo": "/partners/stargate.svg",
+    "link": "https://www.stablejack.xyz/",
+    "subTitle": "Yield, volatility and points market for any asset.",
+    "description": "Earn more yBTC yield on StableJack."
+  },
+  {
+    "name": "Avalon Labs",
+    "logo": "/partners/avalon-labs.svg",
+    "link": "https://www.avalonfinance.xyz/",
+    "subTitle": "Liquidity hub for BItcoin.",
+    "description": "Participate in Looped Lending with Restaked Assets on Avalon Labs."
+  },
+  {
+    "name": "Artemis",
+    "logo": "/partners/artemis.svg",
+    "link": "https://artemisfinance.io/",
+    "subTitle": "Unleashing the potential of decentralized sequencing.",
+    "description": "Stake BTC and DOGE now to earn optimized yield."
+  },
+  {
+    "name": "GOATswap",
+    "logo": "/partners/goat-swap.svg",
+    "link": "https://goatswap.com/",
+    "subTitle": "Premiere DEX and Defi hub on GOAT network.",
+    "description": "Start swapping BTC, ETH, DOGE, USDT and USDC on goatswap."
+  }
+]

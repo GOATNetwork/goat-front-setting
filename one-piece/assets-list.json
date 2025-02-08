@@ -1,0 +1,71 @@
+{
+  "platforms": [
+      {
+          "name": "Artemis",
+          "type": "Stake",
+          "assets": [
+              "yBTC",
+              "yDOGE"
+          ],
+          "apy": "20%",
+          "points": "6x",
+          "testLink": "https://testnet.artemisfinance.io/stake-goat",
+          "prodLink": "https://artemisfinance.io/stake-goat"
+      },
+      {
+          "name": "GOATswap",
+          "type": "Bridge & Swap",
+          "assets": [
+              "BTC",
+              "ETH",
+              "USDT",
+              "USDC",
+              "DOGE"
+          ],
+          "apy": "-",
+          "points": "6x",
+          "testLink": "https://alpha-mainnet.goatswap.fi",
+          "prodLink": "https://goatswap.fi"
+      }
+  ],
+  "assetBaseRates": [
+      {
+          "platforms": [
+              "Artemis",
+              "Avalon",
+              "Stablejack"
+          ],
+          "rateUnit": "GEC/block",
+          "assetBaseRate": {
+              "DOGE": "0.000001",
+              "USDT": "0.0000025",
+              "USDC": "0.0000025",
+              "BTC": "0.25",
+              "ETH": "0.00875",
+              "solvBTC": "0.25",
+              "yBTC": "0.25",
+              "yDOGE": "0.000001",
+              "goatsBTC": "0.25",
+              "goatsETH": "0.00875"
+          }
+      },
+      {
+          "platforms": [
+              "GOATswap"
+          ],
+          "rateUnit": "GEC/txn",
+          "assetBaseRate": {
+              "DOGE": "0.0864",
+              "USDT": "0.216",
+              "USDC": "0.216",
+              "BTC": "21600",
+              "ETH": "756",
+              "solvBTC": "21600",
+              "yBTC": "21600",
+              "yDOGE": "0.0864",
+              "goatsBTC": "21600",
+              "goatsETH": "756"
+          }
+      }
+  ]
+}
