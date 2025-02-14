@@ -5,7 +5,12 @@
     "link": "https://nudex.vercel.app/",
     "subTitle": "Unleash your trading potential.",
     "description": "Start trading BTC, ETH, DOGE on Nudex.",
-    "buttonText": "Trade Now"
+    "buttonText": "Trade Now",
+    "subButton": {
+      "text": "Activity Entrance",
+      "link": "https://testnet.nudex.io/goat-one-piece",
+      "colors": ["#00BCFC", "#FF00FF"]
+    }
   },
   { "name": "Stablejack",
     "logo": "stablejack",
