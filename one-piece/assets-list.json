@@ -36,8 +36,8 @@
             ],
             "apy": "-",
             "points": "6x",
-            "testLink": "https://unitrade.staging.gfx.town/?inTokenAmount=0&inputChain=goat",
-            "prodLink": "https://unitrade.staging.gfx.town/?inTokenAmount=0&inputChain=goat"
+            "testLink": "https://unitrade.staging.gfx.town/?inTokenAmount=%220%22&inputChain=goat",
+            "prodLink": "https://unitrade.staging.gfx.town/?inTokenAmount=%220%22&inputChain=goat"
         },
         {
             "name": "Stakestone",
