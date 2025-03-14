@@ -10,6 +10,7 @@
             ],
             "apy": "20%",
             "points": "6x",
+            "doubleX": true,
             "testLink": "https://nextnet.artemisfinance.io/stake-goat",
             "prodLink": "https://nextnet.artemisfinance.io/stake-goat"
         },
@@ -36,6 +37,7 @@
             ],
             "apy": "-",
             "points": "6x",
+            "doubleX": false,
             "testLink": "https://unitrade.staging.gfx.town/?inTokenAmount=%220%22&inputChain=goat",
             "prodLink": "https://unitrade.staging.gfx.town/?inTokenAmount=%220%22&inputChain=goat"
         },
@@ -48,6 +50,7 @@
             ],
             "apy": "-",
             "points": "",
+            "doubleX": true,
             "testLink": "https://app.stakestone.io/u/vault/detail/goat",
             "prodLink": "https://app.stakestone.io/u/vault/detail/goat"
         },
@@ -76,6 +79,7 @@
             ],
             "apy": "-",
             "points": "6x",
+            "doubleX": false,
             "testLink": "https://alpha-mainnet.goatswap.fi",
             "prodLink": "https://alpha-mainnet.goatswap.fi"
         }
