@@ -15,7 +15,7 @@
         },
         {
             "name": "OKU",
-            "type": "Swap",
+            "type": "Swap & Liquidity",
             "assets": [
                 "WGBTC/WETH",
                 "WETH/WGBTC",
@@ -41,7 +41,7 @@
         },
         {
             "name": "Stakestone",
-            "type": "Swap",
+            "type": "Staking",
             "assets": [
                 "DOGEB",
                 "BTCB"
@@ -53,7 +53,7 @@
         },
         {
             "name": "GOATswap",
-            "type": "Swap",
+            "type": "Swap & Liquidity",
             "assets": [
                 "WGBTC/WETH",
                 "WETH/WGBTC",
