@@ -6,7 +6,7 @@
             "assets": [
                 "BTC",
                 "BTCB",
-                "DOGE"
+                "DOGEB"
             ],
             "apy": "20%",
             "points": "6x",
@@ -45,7 +45,7 @@
             "name": "Stakestone",
             "type": "Staking",
             "assets": [
-                "DOGEB",
+                "DOGE",
                 "BTCB"
             ],
             "apy": "-",
@@ -95,12 +95,13 @@
             "assetBaseRate": {
                 "BTC": "0.25",
                 "BTCB": "0.25",
-                "DOGE": "0.000001"
+                "DOGEB": "0.000001"
             }
         },
         {
             "platforms": [
-                "GOATswap"
+                "GOATswap",
+                "OKU"
             ],
             "rateUnit": "GEC/txn",
             "assetBaseRate": {
@@ -122,28 +123,6 @@
                 "ArtBTCB/BTCB": "0.25",
                 "WGBTC/ArtBTC": "0.25",
                 "ArtBTC/WGBTC": "0.25"
-            }
-        },
-        {
-            "platforms": ["OKU"],
-            "rateUnit": "GEC/txn",
-            "assetBaseRate": {
-                "WGBTC/WETH": "0.00875",
-                "WETH/WGBTC": "0.25",
-                "USDC.e/WGBTC": "0.25",
-                "WGBTC/USDC.e": "0.0000025",
-                "WGBTC/BTCB": "0.25",
-                "BTCB/WGBTC": "0.25",
-                "ArtDOGEB/DOGEB": "0.000001",
-                "DOGEB/ArtDOGEB": "0.000001",
-                "BTCB/ArtBTCB": "0.25",
-                "ArtBTCB/BTCB": "0.25",
-                "WGBTC/ArtBTC": "0.25",
-                "ArtBTC/WGBTC": "0.25",
-                "WGBTC/USDT": "0.0000025",
-                "USDT/WGBTC": "0.25",
-                "WETH/USDT": "0.0000025",
-                "USDT/WETH": "0.00875"
             }
         }
     ]
