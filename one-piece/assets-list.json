@@ -11,8 +11,8 @@
             "apy": "20%",
             "points": "6x",
             "doubleX": true,
-            "testLink": "https://nextnet.artemisfinance.io/stake-goat",
-            "prodLink": "https://nextnet.artemisfinance.io/stake-goat"
+            "testLink": "https://artemisfinance.io",
+            "prodLink": "https://artemisfinance.io"
         },
         {
             "name": "OKU",
@@ -38,8 +38,8 @@
             "apy": "-",
             "points": "6x",
             "doubleX": false,
-            "testLink": "https://unitrade.staging.gfx.town/?inTokenAmount=%220%22&inputChain=goat",
-            "prodLink": "https://unitrade.staging.gfx.town/?inTokenAmount=%220%22&inputChain=goat"
+            "testLink": "https://oku.trade",
+            "prodLink": "https://oku.trade"
         },
         {
             "name": "Stakestone",
