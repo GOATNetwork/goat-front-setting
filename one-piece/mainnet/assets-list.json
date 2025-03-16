@@ -19,6 +19,22 @@
           "prodLink": "https://artemisfinance.io"
       },
       {
+        "name": "Stakestone",
+        "type": "Staking",
+        "assets": [
+            {
+                "asset": "DOGE"
+            }, {
+                "asset": "BTCB"
+            }
+        ],
+        "apy": "-",
+        "points": "",
+        "doubleX": true,
+        "testLink": "https://app.stakestone.io/u/vault/detail/goat",
+        "prodLink": "https://app.stakestone.io/u/vault/detail/goat"
+      },
+      {
           "name": "OKU",
           "type": "Swap & Liquidity",
           "assets": [
@@ -45,22 +61,6 @@
           "doubleX": false,
           "testLink": "https://oku.trade",
           "prodLink": "https://oku.trade"
-      },
-      {
-          "name": "Stakestone",
-          "type": "Staking",
-          "assets": [
-              {
-                  "asset": "DOGE"
-              }, {
-                  "asset": "BTCB"
-              }
-          ],
-          "apy": "-",
-          "points": "",
-          "doubleX": true,
-          "testLink": "https://app.stakestone.io/u/vault/detail/goat",
-          "prodLink": "https://app.stakestone.io/u/vault/detail/goat"
       },
       {
           "name": "GOATswap",
