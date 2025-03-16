@@ -1,42 +1,53 @@
 [
   {
-    "name": "Nudex",
-    "logo": "nudex",
-    "link": "https://nudex.vercel.app/",
-    "subTitle": "Unleash your trading potential.",
-    "description": "Start trading BTC, ETH, DOGE on Nudex.",
-    "buttonText": "Trade Now",
-    "subButton": {
-      "text": "Activity Entrance",
-      "link": "https://testnet.nudex.io/goat-one-piece",
-      "colors": ["#00BCFC", "#FF00FF"]
-    }
-  },
-  { "name": "Stablejack",
-    "logo": "stablejack",
-    "link": "https://www.stablejack.xyz/",
-    "subTitle": "Yield, volatility and points market for any asset.",
-    "description": "Earn more yBTC yield on StableJack."
+    "name": "Stakestone",
+    "logo": "Stakestone",
+    "link": "https://app.stakestone.io/u/vault/detail/goat",
+    "description": "Omnichain liquidity infrastructure. Earn BTC, $STO and GOAT points for participating in the GOAT Ecosystem.",
+    "tag": "Dual Points"
   },
   {
-    "name": "Avalon Labs",
-    "logo": "avalonlabs",
-    "link": "https://www.avalonfinance.xyz/",
-    "subTitle": "Liquidity hub for BItcoin.",
-    "description": "Participate in Looped Lending with Restaked Assets on Avalon Labs."
+    "name": "OKU",
+    "logo": "OKU",
+    "link": "https://oku.trade/?inTokenAmount=%220%22",
+    "description": "Bridge & swap any token across 25+ chains including Arbitrum, Base, Sei & more with ZERO FEES."
   },
   {
     "name": "Artemis",
-    "logo": "artemis",
+    "logo": "Artemis",
     "link": "https://artemisfinance.io/",
-    "subTitle": "Unleashing the potential of decentralized sequencing.",
-    "description": "Stake BTC and DOGE now to earn optimized yield."
+    "description": "Unleashing the potential of decentralized sequencing. Stake BTC ,BTCB and DOGEB now to earn optimized yield.",
+    "tag": "Dual Points"
   },
   {
     "name": "GOATswap",
-    "logo": "goatswap",
-    "link": "https://goatswap.com/",
-    "subTitle": "Premiere DEX and Defi hub on GOAT network.",
-    "description": "Start swapping BTC, ETH, DOGE, USDT and USDC on goatswap."
+    "logo": "GOATswap",
+    "link": "https://alpha-mainnet.goatswap.fi/",
+    "description": "The Portal to DeFi. All in one decentralized exchange for leveraging diversified funds across ecosystems, with the speed of GOAT Network."
+  },
+  {
+    "name": "Stargate",
+    "logo": "Stargate",
+    "link": "https://stargate.finance/bridge?srcChain=ethereum&dstChain=goat",
+    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi."
+  },
+  {
+    "name": "Nudex",
+    "logo": "Nudex",
+    "link": "https://nudex.vercel.app/",
+    "description": "Next-generation cryptocurrency trading platform that leverages the NIP-20 protocol to offer a wide range of digital assets.",
+    "buttonText": "Trade Now",
+    "buttonDisabled": true
+  },
+  { "name": "Stablejack",
+    "logo": "Stablejack",
+    "link": "https://www.stablejack.xyz/",
+    "description": "Stable Jack offers fixed and leveraged yield, airdrop farming, and risk-free leveraged long positions for any asset."
+  },
+  {
+    "name": "Avalon Labs",
+    "logo": "Avalon",
+    "link": "https://www.avalonfinance.xyz/",
+    "description": "Liquidity hub for Bitcoin. Participate in Looped Lending with Re-staked Assets on Avalon Labs."
   }
 ]
