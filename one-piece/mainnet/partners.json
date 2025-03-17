@@ -9,7 +9,7 @@
   {
     "name": "OKU",
     "logo": "OKU",
-    "link": "https://oku.trade/?inTokenAmount=%220%22",
+    "link": "https://oku.trade/?inputChain=goat",
     "description": "Bridge & swap any token across 25+ chains including Arbitrum, Base, Sei & more with ZERO FEES."
   },
   {
