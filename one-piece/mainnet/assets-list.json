@@ -79,8 +79,8 @@
           "apy": "-",
           "points": "6x",
           "doubleX": false,
-          "testLink": "https://alpha-mainnet.goatswap.fi",
-          "prodLink": "https://alpha-mainnet.goatswap.fi"
+          "testLink": "https://goatswap.fi",
+          "prodLink": "https://goatswap.fi"
       }
   ],
   "assetBaseRates": [
