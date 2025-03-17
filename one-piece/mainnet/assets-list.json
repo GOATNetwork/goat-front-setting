@@ -39,21 +39,21 @@
           "type": "Swap & Liquidity",
           "assets": [
               {
+                  "asset": "ArtBTCB/BTCB",
+                  "testLink": "https://oku.trade/app/goat/pool/0xdE2B2fb74a9B7053A6bAc08Fb741e19467F7a0ef",
+                  "prodLink": "https://oku.trade/app/goat/pool/0xdE2B2fb74a9B7053A6bAc08Fb741e19467F7a0ef"
+              }, {
                   "asset": "ArtDOGEB/DOGEB",
-                  "testLink": "https://oku.trade",
-                  "prodLink": "https://oku.trade"
+                  "testLink": "https://oku.trade/app/goat/pool/0xE84Dc31691587402E59Ba9f9180F8ab02A593D3c",
+                  "prodLink": " https://oku.trade/app/goat/pool/0xE84Dc31691587402E59Ba9f9180F8ab02A593D3c"
               }, {
-                  "asset": "BTCB/ArtBTCB",
-                  "testLink": "https://oku.trade",
-                  "prodLink": "https://oku.trade"
-              }, {
-                  "asset": "USDC.e/WGBTC",
-                  "testLink": "https://oku.trade",
-                  "prodLink": "https://oku.trade"
+                  "asset": "WGBTC/USDC.e",
+                  "testLink": "https://oku.trade/app/goat/pool/0x56F689Ec1E264FAad1666F3b5db1A6a9707cc9b1",
+                  "prodLink": "https://oku.trade/app/goat/pool/0x56F689Ec1E264FAad1666F3b5db1A6a9707cc9b1"
               }, {
                   "asset": "DOGEB/USDC.e",
-                  "testLink": "https://oku.trade",
-                  "prodLink": "https://oku.trade"
+                  "testLink": "https://oku.trade/app/goat/pool/0x186f458e878ffdc45795d61946eff7a97471d77d",
+                  "prodLink": "https://oku.trade/app/goat/pool/0x186f458e878ffdc45795d61946eff7a97471d77d"
               }
           ],
           "apy": "-",
