@@ -37,12 +37,7 @@
     "link": "https://nudex.vercel.app/",
     "description": "Next-generation cryptocurrency trading platform that leverages the NIP-20 protocol to offer a wide range of digital assets.",
     "buttonText": "Trade Now",
-    "buttonDisabled": true,
-    "subButton": {
-      "text": "Activity Entrance",
-      "link": "https://testnet.nudex.io/goat-one-piece",
-      "colors": ["#00BCFC", "#FF00FF"]
-    }
+    "buttonDisabled": true
   },
   { "name": "Stablejack",
     "logo": "Stablejack",
