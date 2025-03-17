@@ -79,8 +79,8 @@
           "apy": "-",
           "points": "6x",
           "doubleX": false,
-          "testLink": "https://goatswap.fi",
-          "prodLink": "https://goatswap.fi"
+          "testLink": "https://www.goatswap.fi/#/swap",
+          "prodLink": "https://www.goatswap.fi/#/swap"
       }
   ],
   "assetBaseRates": [
