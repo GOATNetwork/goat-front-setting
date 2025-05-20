@@ -1,0 +1,182 @@
+{
+  "tvl": null,
+  "lockAmount": null,
+  "products": [
+    {
+      "title": "Safebox",
+      "subTitle": "A risk-free BTC yield product offering stable, predictable returns for conservative holders.",
+      "thumbnail": "{BASEDIR}/assets/thumbnails/safebox-thumbnail.png",
+      "image": "{BASEDIR}/assets/details/safebox-detail.png",
+      "apy": "3%",
+      "descriptions": [
+        "3-month fixed term",
+        "Principal-protected deposit with consistent ~3% APY, paid in BTC and backed by decentralized sequencer rewards",
+        "Enterprise-grade security"
+      ],
+      "riskLevel": "Low",
+      "timeFrame": "Long",
+      "experienceLevel": "Advanced",
+      "tags": ["Institutions", "Sovereigns and BTC Whales"],
+      "dapps": [
+        {
+          "name": "GOAT Safebox",
+          "logo": "{BASEDIR}/assets/logos/dapps/goat-safebox-logo.png",
+          "link": "https://safebox.goat.network/",
+          "auditors": [
+            {
+              "name": "Offbeat Security",
+              "logo": "{BASEDIR}/assets/logos/auditors/offbeat-security-logo.png",
+              "link": "https://hackmd.io/@offbeatsecurity/goat-safebox-review"
+            }
+          ],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/GOATrollup",
+              "label": "GOAT Network"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/GOATrollup",
+              "label": "Join TG"
+            },
+            {
+              "type": "Discord",
+              "link": "https://discord.com/invite/goatnetwork",
+              "label": "Join Discord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BTCB/DOGEB Vault",
+      "subTitle": "A low-risk BTCB/DOGEB time-lock product offering guaranteed BTC yield backed by real economic activity.",
+      "thumbnail": "{BASEDIR}/assets/thumbnails/btcb-dogeb-vault-thumbnail.png",
+      "image": "{BASEDIR}/assets/details/btcb-dogeb-vault-detail.png",
+      "apy": "5%",
+      "descriptions": [
+        "BTCB/DOGEB is locked on BNB and bridged onto GOAT Network via LayerZero protocol",
+        "Earn ~ 5% APY from sequencer rewards and BTC gas fees",
+        "Transparent, non-custodial, and tailored for Defi traders"
+      ],
+      "riskLevel": "Low",
+      "timeFrame": "Medium",
+      "experienceLevel": "Intermediate",
+      "tags": ["All users"],
+      "dapps": [
+        {
+          "name": "StakeStone",
+          "logo": "{BASEDIR}/assets/logos/dapps/stakestone-logo.png",
+          "link": "https://app.stakestone.io/u/vault/detail/goat",
+          "auditors": [
+            {
+              "name": "Offbeat Security",
+              "logo": "{BASEDIR}/assets/logos/auditors/offbeat-security-logo.png",
+              "link": "https://hackmd.io/@offbeatsecurity/metis-goat-liquiditypad-02-24-25"
+            }
+          ],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/Stake_stone",
+              "label": "StakeStone"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/StakeStone",
+              "label": "Join TG"
+            },
+            {
+              "type": "Discord",
+              "link": "https://discord.com/invite/pSbxSdKxqf",
+              "label": "Join Discord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sequencer PoS Staking",
+      "subTitle": "A permissionless staking system securing GOAT Network with multi-asset PoS and offering BTC-native rewards.",
+      "thumbnail": "{BASEDIR}/assets/thumbnails/sequencer-pos-thumbnail.png",
+      "image": "{BASEDIR}/assets/details/sequencer-pos-detail.png",
+      "apy": "10%",
+      "descriptions": [
+        "Stake BTC, BTCB and DOGEB to secure decentralized sequencers",
+        "Earn ~10% APY, coming from real BTC gas yield, sequencer rewards, and MEV incentives",
+        "No lock, flexible unstaking"
+      ],
+      "riskLevel": "Medium",
+      "timeFrame": "Long",
+      "experienceLevel": "Advanced",
+      "tags": ["All users"],
+      "dapps": [
+        {
+          "name": "Artemis Finance",
+          "logo": "{BASEDIR}/assets/logos/dapps/artemis-finance-logo.png",
+          "link": "https://artemisfinance.io/stake-goat?from=home",
+          "auditors": [
+            {
+              "name": "Peckshield",
+              "logo": "{BASEDIR}/assets/logos/auditors/peckshield-logo.png",
+              "link": "https://79226619-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F198urHxz9fLDSymBGOYf%2Fuploads%2FvfYMfFs0CegB7fiDbEY1%2FPeckShield-Audit-Report-Artemis-v1.0.pdf?alt=media&token=efcc3269-83d3-4210-8cc4-7d0a16a0dfbd"
+            }
+          ],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/Artemisfinance",
+              "label": "Artemis Finance"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/OfficialArtemisFinance",
+              "label": "Join TG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BTC Lending",
+      "subTitle": "A lending marketplace unlocking capital efficiency for BTC holders on GOAT Network.",
+      "thumbnail": "{BASEDIR}/assets/thumbnails/btc-lending-thumbnail.png",
+      "image": "{BASEDIR}/assets/details/btc-lending-detail.png",
+      "descriptions": [
+        "Deposit BTC or BTC LST to earn yield or borrow against it with collateralized loans",
+        "Integrated with DeFi lending strategies and risk-adjusted interest rates",
+        "Flexible terms, instant liquidity"
+      ],
+      "riskLevel": "Medium",
+      "timeFrame": "Medium",
+      "experienceLevel": "Advanced",
+      "tags": ["Active Traders"],
+      "dapps": [
+        {
+          "name": "Avalon Finance",
+          "logo": "{BASEDIR}/assets/logos/dapps/avalon-finance-logo.png",
+          "link": "https://lend.avalonfinance.xyz/?marketName=proto_goat_v3",
+          "auditors": [],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/avalonfinance_",
+              "label": "Avalon Finance"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/AvalonLabs_Official",
+              "label": "Join TG"
+            },
+            {
+              "type": "Discord",
+              "link": "https://discord.com/invite/officialavalonlabs",
+              "label": "Join Discord"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+} 
