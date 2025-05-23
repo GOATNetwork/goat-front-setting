@@ -7,10 +7,10 @@
       "subTitle": "A risk-free BTC yield product offering stable, predictable returns for conservative holders.",
       "thumbnail": "{BASEDIR}/assets/thumbnails/safebox-thumbnail.png",
       "image": "{BASEDIR}/assets/details/safebox-detail.png",
-      "apy": "3%",
+      "apy": "2%",
       "descriptions": [
         "3-month fixed term",
-        "Principal-protected deposit with consistent ~3% APY, paid in BTC and backed by decentralized sequencer rewards",
+        "Principal-protected deposit with consistent ~2% APY, paid in BTC and backed by decentralized sequencer rewards",
         "Enterprise-grade security"
       ],
       "riskLevel": "Low",
