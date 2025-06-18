@@ -1,129 +1,115 @@
 {
-    "platforms": [
-        {
-            "name": "Artemis",
-            "type": "Staking",
-            "assets": [
-                "BTC",
-                "BTCB",
-                "DOGEB"
-            ],
-            "apy": "20%",
-            "points": "6x",
-            "doubleX": true,
-            "testLink": "https://artemisfinance.io",
-            "prodLink": "https://artemisfinance.io"
-        },
-        {
-            "name": "OKU",
-            "type": "Swap & Liquidity",
-            "assets": [
-                "WGBTC/WETH",
-                "WETH/WGBTC",
-                "USDC.e/WGBTC",
-                "WGBTC/USDC.e",
-                "WGBTC/BTCB",
-                "BTCB/WGBTC",
-                "ArtDOGEB/DOGEB",
-                "DOGEB/ArtDOGEB",
-                "BTCB/ArtBTCB",
-                "ArtBTCB/BTCB",
-                "WGBTC/ArtBTC",
-                "ArtBTC/WGBTC",
-                "WGBTC/USDT",
-                "USDT/WGBTC",
-                "WETH/USDT",
-                "USDT/WETH"
-            ],
-            "apy": "-",
-            "points": "6x",
-            "doubleX": false,
-            "testLink": "https://oku.trade",
-            "prodLink": "https://oku.trade"
-        },
-        {
-            "name": "Stakestone",
-            "type": "Staking",
-            "assets": [
-                "DOGE",
-                "BTCB"
-            ],
-            "apy": "-",
-            "points": "",
-            "doubleX": true,
-            "testLink": "https://app.stakestone.io/u/vault/detail/goat",
-            "prodLink": "https://app.stakestone.io/u/vault/detail/goat"
-        },
-        {
-            "name": "GOATswap",
-            "type": "Swap & Liquidity",
-            "assets": [
-                "WGBTC/WETH",
-                "WETH/WGBTC",
-                "USDC.e/WGBTC",
-                "WGBTC/USDC.e",
-                "WETH/USDT",
-                "USDT/WETH",
-                "USDC.e/USDT",
-                "USDT/USDC.e",
-                "WGBTC/USDT",
-                "USDT/WGBTC",
-                "WGBTC/BTCB",
-                "BTCB/WGBTC",
-                "ArtDOGEB/DOGEB",
-                "DOGEB/ArtDOGEB",
-                "BTCB/ArtBTCB",
-                "ArtBTCB/BTCB",
-                "WGBTC/ArtBTC",
-                "ArtBTC/WGBTC"
-            ],
-            "apy": "-",
-            "points": "6x",
-            "doubleX": false,
-            "testLink": "https://alpha-mainnet.goatswap.fi",
-            "prodLink": "https://alpha-mainnet.goatswap.fi"
-        }
-    ],
-    "assetBaseRates": [
-        {
-            "platforms": [
-                "Artemis",
-                "Avalon",
-                "Stablejack"
-            ],
-            "rateUnit": "GEC/block",
-            "assetBaseRate": {
-                "BTC": "0.25",
-                "BTCB": "0.25",
-                "DOGEB": "0.000001"
-            }
-        },
-        {
-            "platforms": [
-                "GOATswap",
-                "OKU"
-            ],
-            "rateUnit": "GEC/txn",
-            "assetBaseRate": {
-                "WGBTC/WETH": "0.00875",
-                "WETH/WGBTC": "0.25",
-                "USDC.e/WGBTC": "0.25",
-                "WGBTC/USDC.e": "0.0000025",
-                "WETH/USDT": "0.0000025",
-                "USDT/WETH": "0.00875",
-                "USDC.e/USDT": "0.0000025",
-                "USDT/USDC.e": "0.0000025",
-                "WGBTC/USDT": "0.0000025",
-                "USDT/WGBTC": "0.25",
-                "WGBTC/BTCB": "0.25",
-                "BTCB/WGBTC": "0.25",
-                "ArtDOGEB/DOGEB": "0.000001",
-                "DOGEB/ArtDOGEB": "0.000001",
-                "BTCB/ArtBTCB": "0.25",
-                "ArtBTCB/BTCB": "0.25",
-                "WGBTC/ArtBTC": "0.25",
-                "ArtBTC/WGBTC": "0.25"
-            }
-        }
-    ]
+  "platforms": [
+    {
+      "name": "Artemis",
+      "type": "Staking",
+      "assets": ["BTC", "BTCB", "DOGEB"],
+      "apy": "20%",
+      "points": "6x",
+      "doubleX": true,
+      "testLink": "https://artemisfinance.io",
+      "prodLink": "https://artemisfinance.io"
+    },
+    {
+      "name": "Oku",
+      "type": "Swap & Liquidity",
+      "assets": [
+        "WGBTC/WETH",
+        "WETH/WGBTC",
+        "USDC.e/WGBTC",
+        "WGBTC/USDC.e",
+        "WGBTC/BTCB",
+        "BTCB/WGBTC",
+        "ArtDOGEB/DOGEB",
+        "DOGEB/ArtDOGEB",
+        "BTCB/ArtBTCB",
+        "ArtBTCB/BTCB",
+        "WGBTC/ArtBTC",
+        "ArtBTC/WGBTC",
+        "WGBTC/USDT",
+        "USDT/WGBTC",
+        "WETH/USDT",
+        "USDT/WETH"
+      ],
+      "apy": "-",
+      "points": "6x",
+      "doubleX": false,
+      "testLink": "https://oku.trade",
+      "prodLink": "https://oku.trade"
+    },
+    {
+      "name": "Stakestone",
+      "type": "Staking",
+      "assets": ["DOGE", "BTCB"],
+      "apy": "-",
+      "points": "",
+      "doubleX": true,
+      "testLink": "https://app.stakestone.io/u/vault/detail/goat",
+      "prodLink": "https://app.stakestone.io/u/vault/detail/goat"
+    },
+    {
+      "name": "Goatswap",
+      "type": "Swap & Liquidity",
+      "assets": [
+        "WGBTC/WETH",
+        "WETH/WGBTC",
+        "USDC.e/WGBTC",
+        "WGBTC/USDC.e",
+        "WETH/USDT",
+        "USDT/WETH",
+        "USDC.e/USDT",
+        "USDT/USDC.e",
+        "WGBTC/USDT",
+        "USDT/WGBTC",
+        "WGBTC/BTCB",
+        "BTCB/WGBTC",
+        "ArtDOGEB/DOGEB",
+        "DOGEB/ArtDOGEB",
+        "BTCB/ArtBTCB",
+        "ArtBTCB/BTCB",
+        "WGBTC/ArtBTC",
+        "ArtBTC/WGBTC"
+      ],
+      "apy": "-",
+      "points": "6x",
+      "doubleX": false,
+      "testLink": "https://alpha-mainnet.goatswap.fi",
+      "prodLink": "https://alpha-mainnet.goatswap.fi"
+    }
+  ],
+  "assetBaseRates": [
+    {
+      "platforms": ["Artemis", "Avalon", "Stablejack"],
+      "rateUnit": "GEC/block",
+      "assetBaseRate": {
+        "BTC": "0.25",
+        "BTCB": "0.25",
+        "DOGEB": "0.000001"
+      }
+    },
+    {
+      "platforms": ["Goatswap", "Oku"],
+      "rateUnit": "GEC/txn",
+      "assetBaseRate": {
+        "WGBTC/WETH": "0.00875",
+        "WETH/WGBTC": "0.25",
+        "USDC.e/WGBTC": "0.25",
+        "WGBTC/USDC.e": "0.0000025",
+        "WETH/USDT": "0.0000025",
+        "USDT/WETH": "0.00875",
+        "USDC.e/USDT": "0.0000025",
+        "USDT/USDC.e": "0.0000025",
+        "WGBTC/USDT": "0.0000025",
+        "USDT/WGBTC": "0.25",
+        "WGBTC/BTCB": "0.25",
+        "BTCB/WGBTC": "0.25",
+        "ArtDOGEB/DOGEB": "0.000001",
+        "DOGEB/ArtDOGEB": "0.000001",
+        "BTCB/ArtBTCB": "0.25",
+        "ArtBTCB/BTCB": "0.25",
+        "WGBTC/ArtBTC": "0.25",
+        "ArtBTC/WGBTC": "0.25"
+      }
+    }
+  ]
 }
