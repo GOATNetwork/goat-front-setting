@@ -8,9 +8,10 @@
       "thumbnail": "{{BASEDIR}}/assets/thumbnails/safebox-thumbnail.png",
       "image": "{{BASEDIR}}/assets/details/safebox-detail.png",
       "apy": "2%",
+      "apyLabel": "APR",
       "descriptions": [
         "3-month fixed term",
-        "Principal-protected deposit with consistent ~2% APY, paid in BTC and backed by decentralized sequencer rewards",
+        "Principal-protected deposit with consistent ~2% APR, paid in BTC and backed by decentralized sequencer rewards",
         "Enterprise-grade security"
       ],
       "riskLevel": "Low",
@@ -55,6 +56,7 @@
       "thumbnail": "{{BASEDIR}}/assets/thumbnails/btcb-dogeb-vault-thumbnail.png",
       "image": "{{BASEDIR}}/assets/details/btcb-dogeb-vault-detail.png",
       "apy": "5%",
+      "apyLabel": "APY",
       "descriptions": [
         "BTCB/DOGEB is locked on BNB and bridged onto GOAT Network via LayerZero protocol",
         "Earn ~ 5% APY from sequencer rewards and BTC gas fees",
@@ -102,9 +104,10 @@
       "thumbnail": "{{BASEDIR}}/assets/thumbnails/sequencer-pos-thumbnail.png",
       "image": "{{BASEDIR}}/assets/details/sequencer-pos-detail.png",
       "apy": "{{stakingApy|10}}%",
+      "apyLabel": "APR",
       "descriptions": [
         "Stake BTC, BTCB and DOGEB to secure decentralized sequencers",
-        "Earn ~{{stakingApy|10}}% APY, coming from real BTC gas yield, sequencer rewards, and MEV incentives",
+        "Earn ~{{stakingApy|10}}% APR, coming from real BTC gas yield, sequencer rewards, and MEV incentives",
         "No lock, flexible unstaking"
       ],
       "riskLevel": "Medium",
