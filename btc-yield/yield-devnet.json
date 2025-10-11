@@ -7,16 +7,16 @@
       "subTitle": "A risk-free BTC yield product offering stable, predictable returns for conservative holders.",
       "thumbnail": "{{BASEDIR}}/assets/thumbnails/safebox-thumbnail.png",
       "image": "{{BASEDIR}}/assets/details/safebox-detail.png",
-      "apy": "2%",
+      "apy": "1.5%",
       "apyLabel": "APR",
       "descriptions": [
         "3-month fixed term",
-        "Principal-protected deposit with consistent ~2% APR, paid in BTC and backed by decentralized sequencer rewards",
+        "Principal-protected deposit with consistent ~1.5% APR, paid in BTC and backed by decentralized sequencer rewards",
         "Enterprise-grade security"
       ],
-      "riskLevel": "Low",
-      "timeFrame": "Long",
-      "experienceLevel": "Advanced",
+      "riskLevel": "Risk-free",
+      "term": "Fixed-term",
+      "experienceLevel": "Beginner",
       "tags": ["Institutions", "Sovereigns and BTC Whales"],
       "dapps": [
         {
@@ -63,8 +63,8 @@
         "Transparent, non-custodial, and tailored for Defi traders"
       ],
       "riskLevel": "Low",
-      "timeFrame": "Medium",
-      "experienceLevel": "Intermediate",
+      "term": "Flexible",
+      "experienceLevel": "Beginner",
       "tags": ["All users"],
       "dapps": [
         {
@@ -110,9 +110,9 @@
         "Earn ~{{stakingApy|10}}% APR, coming from real BTC gas yield, sequencer rewards, and MEV incentives",
         "No lock, flexible unstaking"
       ],
-      "riskLevel": "Medium",
-      "timeFrame": "Long",
-      "experienceLevel": "Advanced",
+      "riskLevel": "Low",
+      "term": "Flexible",
+      "experienceLevel": "Beginner",
       "tags": ["All users"],
       "dapps": [
         {
@@ -151,16 +151,22 @@
         "Integrated with DeFi lending strategies and risk-adjusted interest rates",
         "Flexible terms, instant liquidity"
       ],
-      "riskLevel": "Medium",
-      "timeFrame": "Medium",
-      "experienceLevel": "Advanced",
+      "riskLevel": "Low",
+      "term": "Flexible",
+      "experienceLevel": "Beginner",
       "tags": ["Active Traders"],
       "dapps": [
         {
           "name": "Avalon Finance",
           "logo": "{{BASEDIR}}/assets/logos/dapps/avalon-finance-logo.png",
           "link": "https://lend.avalonfinance.xyz/?marketName=proto_goat_v3",
-          "auditors": [],
+          "auditors": [
+            {
+              "name": "Salus",
+              "logo": "{{BASEDIR}}/assets/logos/auditors/salus-logo.png",
+              "link": "https://github.com/avalonfinancexyz/DeFi-Lending-audit-salus"
+            }
+          ],
           "socials": [
             {
               "type": "Twitter",
@@ -178,8 +184,134 @@
               "label": "Join Discord"
             }
           ]
+        },
+        {
+          "name": "Sumer.Money",
+          "logo": "{{BASEDIR}}/assets/logos/dapps/sumer-logo.png",
+          "link": "https://app.sumer.money/?chain=2345",
+          "auditors": [
+            {
+              "name": "Ancilia",
+              "logo": "{{BASEDIR}}/assets/logos/auditors/ancilia-logo.png",
+              "link": "https://github.com/meterio/sumer-contracts/tree/main/audits/Ancilia"
+            },
+            {
+              "name": "Certik",
+              "logo": "{{BASEDIR}}/assets/logos/auditors/certik-logo.png",
+              "link": "https://github.com/meterio/sumer-contracts/tree/main/audits/Certik"
+            }
+          ],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/SumerMoney",
+              "label": "Sumer.Money"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/sumer_money",
+              "label": "Join TG"
+            },
+            {
+              "type": "Discord",
+              "link": "https://discord.gg/ggYBw8EuaN",
+              "label": "Join Discord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BTC Yield Market",
+      "subTitle": "A structured yield market for Bitcoin, enabling BTC holders to earn sustainable returns with customized risk profiles.",
+      "thumbnail": "{{BASEDIR}}/assets/thumbnails/btc-yield-market-thumbnail.png",
+      "image": "{{BASEDIR}}/assets/details/btc-yield-market-detail.png",
+      "descriptions": [
+        "Deposit artBTC to mint y-artBTC (leveraged BTC yield) or p-artBTC (leveraged GOATED emissions) — principal-protected, no BTC sales required",
+        "Access structured yield strategies tailored to different risk appetites and market conditions",
+        "Boost capital efficiency and safely enhance returns through risk-adjusted yield positions"
+      ],
+      "riskLevel": "Low",
+      "term": "Short",
+      "experienceLevel": "Advanced",
+      "tags": ["Active Traders"],
+      "dapps": [
+        {
+          "name": "Stable Jack",
+          "logo": "{{BASEDIR}}/assets/logos/dapps/stable-jack-logo.png",
+          "link": "https://app.stablejack.xyz/",
+          "auditors": [
+            {
+              "name": "Dedaub",
+              "logo": "{{BASEDIR}}/assets/logos/auditors/dedaub-logo.png",
+              "link": "https://dedaub.com/audits/stable-jack/stable-jack-dec-24-2024/"
+            }
+          ],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/StableJack_xyz",
+              "label": "Stable Jack"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/stablejack",
+              "label": "Join TG"
+            },
+            {
+              "type": "Discord",
+              "link": "https://discord.gg/7gfVQWnzFj",
+              "label": "Join Discord"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BTC Restaking",
+      "subTitle": "Restake your BTC-minted assets to unlock additional rewards and maximize capital efficiency on the GOAT Network.",
+      "thumbnail": "{{BASEDIR}}/assets/thumbnails/btc-restaking-thumbnail.png",
+      "image": "{{BASEDIR}}/assets/details/btc-restaking-detail.png",
+      "descriptions": [
+        "Securely restake your existing staked assets without unbonding",
+        "Earn layered rewards from both primary staking and restaking activities",
+        "Enhance your DeFi strategies with flexible and efficient restaking options"
+      ],
+      "riskLevel": "Low",
+      "term": "Flexible",
+      "experienceLevel": "Intermediate",
+      "tags": ["Active Traders"],
+      "dapps": [
+        {
+          "name": "Pell",
+          "logo": "{{BASEDIR}}/assets/logos/dapps/pell-logo.png",
+          "link": "https://app.pell.network/restake",
+          "auditors": [
+            {
+              "name": "Peckshield",
+              "logo": "",
+              "link": "https://github.com/0xPellNetwork/restaking-contracts/blob/main/audits/PeckShield-Audit-Report-PellNetwork-v1.0.pdf"
+            }
+          ],
+          "socials": [
+            {
+              "type": "Twitter",
+              "link": "https://x.com/Pell_Network",
+              "label": "Pell"
+            },
+            {
+              "type": "Telegram",
+              "link": "https://t.me/pellnetwork_chat",
+              "label": "Join TG"
+            },
+            {
+              "type": "Discord",
+              "link": "https://discord.com/invite/pell-network",
+              "label": "Join Discord"
+            }
+          ]
         }
       ]
     }
   ]
-} 
+}
