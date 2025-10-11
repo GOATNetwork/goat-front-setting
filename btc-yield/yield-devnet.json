@@ -289,7 +289,7 @@
           "auditors": [
             {
               "name": "Peckshield",
-              "logo": "",
+              "logo": "{{BASEDIR}}/assets/logos/auditors/peckshield-logo.png",
               "link": "https://github.com/0xPellNetwork/restaking-contracts/blob/main/audits/PeckShield-Audit-Report-PellNetwork-v1.0.pdf"
             }
           ],
