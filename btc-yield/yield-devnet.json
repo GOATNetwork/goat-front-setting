@@ -4,7 +4,7 @@
   "products": [
     {
       "title": "Safebox",
-      "subTitle": "A risk-free BTC yield product offering stable, predictable returns for conservative holders.",
+      "subTitle": "A lowest-risk BTC yield product offering stable, predictable returns for conservative holders.",
       "thumbnail": "{{BASEDIR}}/assets/thumbnails/safebox-thumbnail.png",
       "image": "{{BASEDIR}}/assets/details/safebox-detail.png",
       "apy": "1.5%",
@@ -14,7 +14,7 @@
         "Principal-protected deposit with consistent ~1.5% APR, paid in BTC and backed by decentralized sequencer rewards",
         "Enterprise-grade security"
       ],
-      "riskLevel": "Risk-free",
+      "riskLevel": "Lowest-risk",
       "term": "Fixed-term",
       "experienceLevel": "Beginner",
       "tags": ["Institutions", "Sovereigns and BTC Whales"],
